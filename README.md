@@ -1,6 +1,6 @@
 # Splunk + Facebook Messenger
 
-![Sample dashboard](https://raw.githubusercontent.com/sidward35/splunk-messenger/master/sample_dashboard.png)
+![Sample dashboard](https://i.imgur.com/OP6LqjY.png)
 
 ## Requirements
 
