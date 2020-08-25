@@ -6,7 +6,7 @@
 
 - Server to host [Splunk Enterprise](https://www.splunk.com/en_us/download/splunk-enterprise.html) (10GB storage recommended)
 
-For this project, I decided to use AWS (free tier) and set up two EC2 instances. You can read more about the AWS free tier [here](https://aws.amazon.com/free/).
+For this project, I decided to use AWS (free tier) and set up an EC2 instance. You can read more about the AWS free tier [here](https://aws.amazon.com/free/).
 
 ## Instructions
 
