@@ -1,5 +1,7 @@
 # Splunk + Facebook Messenger
 
+![Sample dashboard](https://raw.githubusercontent.com/sidward35/splunk-messenger/master/sample_dashboard.png)
+
 ## Requirements
 
 - Server to host [Splunk Enterprise](https://www.splunk.com/en_us/download/splunk-enterprise.html) (10GB storage recommended)
