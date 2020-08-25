@@ -12,8 +12,7 @@ For this project, I decided to use AWS (free tier) and set up two EC2 instances.
 ![Step 1](https://i.imgur.com/wVlv0aN.png)
 
 2. Your files may take a while to generate, but once they are ready, you will be alerted via email. Once you get a notification that your files are ready, go back to the [Download Your Information page](https://www.facebook.com/dyi?tab=all_archives) and download your generated file. (Note: if multiple files are generated, everything after the first one will usually just contain media, so you don't need to download anything besides the first file.)
-![Step 2 - Part 1](https://i.imgur.com/zvK0O67.png)
-![Step 2 - Part 2](https://i.imgur.com/mSdzOX5.png)
+![Step 2](https://i.imgur.com/mSdzOX5.png)
 
 3. Extract the zip file you just downloaded, and find the `messages` folder inside. Once there, go into the `inbox` folder. Download [this Python script](https://raw.githubusercontent.com/sidward35/splunk-messenger/master/parse.py), which will convert all your HTML message files into CSV format, and place it into the `messages/inbox/` directory.
 
