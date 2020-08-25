@@ -37,7 +37,7 @@ For this project, I decided to use AWS (free tier) and set up two EC2 instances.
 
 8. We're almost done! Now that we've ingested Facebook Messenger data into Splunk, all that's left is creating the dashboard. Go to `Dashboards > Create New Dashboard`, and give it a name. At the top left, switch from `UI` to `Source` mode, and replace the current XML code with the code from [this dashboard template](https://raw.githubusercontent.com/sidward35/splunk-messenger/master/dashboard.xml). Hit `Save`, and then `Refresh` to reload the dashboard.
 
-![Step 8 - Part 1](https://i.imgur.com/yOKf9we.png)
+![Step 8 - Part 1](https://i.imgur.com/OMlNelE.png)
 ![Step 8 - Part 2](https://i.imgur.com/zRXZS0v.png)
 
 9. And that's it! You should now be able to see insights from your Facebook Messenger activity on Splunk. You can continue adding to this dashboard and search your data for more insights, or leave it as-is.
