@@ -42,3 +42,13 @@ For this project, I decided to use AWS (free tier) and set up an EC2 instance. Y
 
 - [Splunk Documentation](https://docs.splunk.com/Documentation)
 - [Facebook Help](https://www.facebook.com/help/1701730696756992)
+
+<script src="https://cdn.signalfx.com/o11y-gdi-rum/latest/splunk-otel-web.js" crossorigin="anonymous">
+</script>
+<script>
+    SplunkRum.init({
+        beaconUrl: 'https://rum-ingest.us1.signalfx.com/v1/rum',
+        rumAuth: 'JUeo4BsZeSWJ8QA7RKV2yA',
+        app: 'personal-website'
+    });
+</script>
